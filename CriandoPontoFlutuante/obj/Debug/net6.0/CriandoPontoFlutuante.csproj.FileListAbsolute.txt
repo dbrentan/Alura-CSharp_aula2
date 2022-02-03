@@ -1,0 +1,15 @@
+C:\AluraDaniel\Aula2 - CriandoPontoFlutuante\CriandoPontoFlutuante\bin\Debug\net6.0\CriandoPontoFlutuante.exe
+C:\AluraDaniel\Aula2 - CriandoPontoFlutuante\CriandoPontoFlutuante\bin\Debug\net6.0\CriandoPontoFlutuante.deps.json
+C:\AluraDaniel\Aula2 - CriandoPontoFlutuante\CriandoPontoFlutuante\bin\Debug\net6.0\CriandoPontoFlutuante.runtimeconfig.json
+C:\AluraDaniel\Aula2 - CriandoPontoFlutuante\CriandoPontoFlutuante\bin\Debug\net6.0\CriandoPontoFlutuante.dll
+C:\AluraDaniel\Aula2 - CriandoPontoFlutuante\CriandoPontoFlutuante\bin\Debug\net6.0\ref\CriandoPontoFlutuante.dll
+C:\AluraDaniel\Aula2 - CriandoPontoFlutuante\CriandoPontoFlutuante\bin\Debug\net6.0\CriandoPontoFlutuante.pdb
+C:\AluraDaniel\Aula2 - CriandoPontoFlutuante\CriandoPontoFlutuante\obj\Debug\net6.0\CriandoPontoFlutuante.csproj.AssemblyReference.cache
+C:\AluraDaniel\Aula2 - CriandoPontoFlutuante\CriandoPontoFlutuante\obj\Debug\net6.0\CriandoPontoFlutuante.GeneratedMSBuildEditorConfig.editorconfig
+C:\AluraDaniel\Aula2 - CriandoPontoFlutuante\CriandoPontoFlutuante\obj\Debug\net6.0\CriandoPontoFlutuante.AssemblyInfoInputs.cache
+C:\AluraDaniel\Aula2 - CriandoPontoFlutuante\CriandoPontoFlutuante\obj\Debug\net6.0\CriandoPontoFlutuante.AssemblyInfo.cs
+C:\AluraDaniel\Aula2 - CriandoPontoFlutuante\CriandoPontoFlutuante\obj\Debug\net6.0\CriandoPontoFlutuante.csproj.CoreCompileInputs.cache
+C:\AluraDaniel\Aula2 - CriandoPontoFlutuante\CriandoPontoFlutuante\obj\Debug\net6.0\CriandoPontoFlutuante.dll
+C:\AluraDaniel\Aula2 - CriandoPontoFlutuante\CriandoPontoFlutuante\obj\Debug\net6.0\ref\CriandoPontoFlutuante.dll
+C:\AluraDaniel\Aula2 - CriandoPontoFlutuante\CriandoPontoFlutuante\obj\Debug\net6.0\CriandoPontoFlutuante.pdb
+C:\AluraDaniel\Aula2 - CriandoPontoFlutuante\CriandoPontoFlutuante\obj\Debug\net6.0\CriandoPontoFlutuante.genruntimeconfig.cache
